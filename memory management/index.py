@@ -1,0 +1,1 @@
+print("Memory management initialized.")
